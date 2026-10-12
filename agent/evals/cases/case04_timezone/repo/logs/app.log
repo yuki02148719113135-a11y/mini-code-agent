@@ -1,0 +1,3 @@
+2026-10-04T10:00:00+09:00 INFO  invite issued id=abc expires_at=2026-10-05T01:00:00 (stored)
+2026-10-05T01:00:05+09:00 INFO  invite check id=abc now_local=2026-10-05T01:00:05 valid=False
+2026-10-05T01:00:05+09:00 WARN  user reported invite expired after ~15h (expected 24h)

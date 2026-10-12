@@ -1,0 +1,3 @@
+{"title":"招待リンクが9時間早く切れる","expected":"不具合",
+ "question":"日本のお客様から『24時間有効のはずの招待リンクが、15時間くらいで期限切れになる』と問い合わせがありました。logs/app.log も見て調べてください。",
+ "must_mention":["invite\\.py","UTC|utc|タイムゾーン|timezone|時差|9時間|naive"]}

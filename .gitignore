@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# CDK
+cdk.out/
+cdk.context.json
+
+# AgentCore CLI（ログ・生成物・アカウント情報を含むもの）
+runtime/agentcore/.cli/
+runtime/agentcore/cdk/node_modules/
+runtime/agentcore/cdk/cdk.out/
+runtime/agentcore/aws-targets.json
+runtime/agentcore/agentcore.vpc.json
+runtime/app/MiniAgent/.venv/
+runtime/app/MiniAgent/cases/
+
+# 実行結果
+agent/evals/results/
+
+# macOS
+.DS_Store

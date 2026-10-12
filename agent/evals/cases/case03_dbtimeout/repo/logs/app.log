@@ -1,0 +1,7 @@
+2026-10-03T08:00:00 INFO  starting app version=2.4.1
+2026-10-03T08:00:00 INFO  env DB_HOST=10.20.3.15 DB_PORT=5432
+2026-10-03T08:00:05 ERROR connect attempt 1/3 to 10.20.3.15:5432 failed: timed out
+2026-10-03T08:00:12 ERROR connect attempt 2/3 to 10.20.3.15:5432 failed: timed out
+2026-10-03T08:00:21 ERROR connect attempt 3/3 to 10.20.3.15:5432 failed: timed out
+2026-10-03T08:00:29 FATAL DB unreachable: 10.20.3.15:5432
+2026-10-03T08:01:02 INFO  (ops note) same image works in staging; prod network changed on 10/02

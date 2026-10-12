@@ -1,0 +1,3 @@
+2026-10-01T10:02:11 INFO  GET /products?page=1 total=45 page_size=10 returned=9
+2026-10-01T10:02:15 INFO  GET /products?page=2 total=45 page_size=10 returned=9
+2026-10-01T10:02:20 WARN  client reported missing item id=10 on page=1

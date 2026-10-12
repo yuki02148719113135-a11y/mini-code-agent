@@ -1,0 +1,6 @@
+2026-10-02T09:00:01 INFO key=cust-77 GET /orders 200
+2026-10-02T09:00:05 INFO key=cust-77 GET /orders 200
+2026-10-02T09:00:09 INFO key=cust-77 GET /orders 200
+2026-10-02T09:00:12 INFO key=cust-77 GET /orders 200
+2026-10-02T09:00:15 INFO key=cust-77 GET /orders 200
+2026-10-02T09:00:18 WARN key=cust-77 GET /orders 429 retry_after=44
